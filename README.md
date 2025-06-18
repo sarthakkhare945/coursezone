@@ -1,4 +1,4 @@
-🧠## About
+## About
 - Title: CourseZone (Frontend)
 - Author: Sarthak-Khare
 - Description:
@@ -7,7 +7,7 @@
 
 🔧 This is the frontend repository, built using React, Chakra UI, and Tailwind CSS. All backend functionalities (like payment integration, user data syncing, and course access management) are handled in a separate private repository for security reasons due to sensitive credentials.
 
-🚀 Tech Stack (Frontend) 
+## Tech Stack (Frontend) 
 ⚛️ React — Core library for building UI
 
 💅 Chakra UI — Accessible component library
