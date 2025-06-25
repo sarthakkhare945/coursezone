@@ -47,7 +47,7 @@ const AboutUs = () => {
 
       {/* Footer Section */}
       <p className="text-center text-gray-400 mt-12 text-lg max-w-2xl mx-auto">
-        takeUforward consists of all free materials, which can be a good place
+        CourseZone consists of all free materials, which can be a good place
         to start with, but if you're looking for a premium experience with the
         best study experience, TUF+ is our paid model.
       </p>
